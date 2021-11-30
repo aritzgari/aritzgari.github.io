@@ -21,6 +21,9 @@ body{
     line-height: 30px;
     font-size: 16px;    
 }
+video{
+    margin-left: 280px
+}
 
 .general{
     border: 2px solid black;
