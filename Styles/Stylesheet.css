@@ -32,10 +32,10 @@ body{
     padding-bottom: 30px;
     padding-right: 20px;
     text-align: justify;
-    color: blue;
+    color: black;
 }
 h1, h2, h3, legend{
-    color: darkblue;
+    color: black;
 }
 
 a{
@@ -53,7 +53,7 @@ nav{
 }
 
 thead{
-    color: darkblue;
+    color: black;
 }
 
 #tablaprincipal{
