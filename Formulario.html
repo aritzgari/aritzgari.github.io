@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="Styles/Stylesheet.css">
+    <link rel="shortcut icon" href="Imagenes/favicon.jpg" type="image/x-icon">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a class="enlaceaikerlan" href="https://www.ikerlan.es" target="_blank" title="Visita nuestra página"> <img
+                    src="Imagenes/Ikerlan.png" width="80" height="35"></a>
+            <a class="header" href="PaginaPrincipal.html">Inicio</a>
+            <a class="header" href="Formulario.html">Añadir proyecto</a>
+            <a class="header" href="FAQ.html">FAQ</a>
+        </nav>
+    </header>
+    <div class="general">
+        <h1>Añadir proyecto</h1>
+        <p>Rellena el siguiente formulario para añadir un nuevo proyecto.</p>
+        <form>
+            <fieldset>
+                <legend>Datos de los componentes del equipo</legend>
+                <ol class="ulol">
+                    <li type="none">Nombre y Apellidos: <input type="text"><br></li>
+                    <li type="none">Nombre y Apellidos: <input type="text"><br></li>
+                    <li type="none">Nombre y Apellidos: <input type="text"><br></li>
+                    <li type="none">Nombre y Apellidos: <input type="text"><br></li>
+                </ol>
+                <ol class="ulol">
+                    <li type="none">Código empleado: <input type="text"><br></li>
+                    <li type="none">Código empleado: <input type="text"><br></li>
+                    <li type="none">Código empleado: <input type="text"><br></li>
+                    <li type="none">Código empleado: <input type="text"><br></li>
+                </ol>
+                <ul class="ulol">
+                    <li type="none">Horas estimadas: <input type="number"><br></li>
+                    <li type="none">Horas estimadas: <input type="number"><br></li>
+                    <li type="none">Horas estimadas: <input type="number"><br></li>
+                    <li type="none">Horas estimadas: <input type="number"><br></li>
+                </ul>
+                <ol class="ulol">
+                    <li type="none" class="departamento">Departamento: <input type="text"><br></li>
+                    <li type="none" class="departamento">Departamento: <input type="text"><br></li>
+                    <li type="none" class="departamento">Departamento: <input type="text"><br></li>
+                    <li type="none" class="departamento">Departamento: <input type="text"><br></li>
+                </ol>
+
+            </fieldset>
+            <fieldset>
+                <legend>Datos del Proyecto</legend>
+                <p class="formpro">Nombre del proyecto: <input type="text"><br></p>
+                <p class="formpro">Precio de venta: <input type="number"><br></p>
+                <p class="formpro">Fecha de inicio: <input type="date"><br></p>
+                <p class="formpro">Fecha de entrega: <input type="date"><br></p>
+                <p class="formpro" id="tipoproyecto">Tipo de proyecto: <br>
+                    <input type="radio" name="tipodeproyecto" value="1" checked> Secreto
+                    <input type="radio" name="tipodeproyecto" value="0"> Normal</p>
+                <p id="descripcion">Descripción del proyecto:</p>
+                <textarea name="textarea" rows="20" cols="120">El proyecto...</textarea><br>
+            </fieldset>
+            <br>
+            <input type="checkbox"> No soy un robot
+            <br><br>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Borrar datos">
+        </form>
+    </div>
+    <footer>
+        <a class="enlacesfooter" href="https://twitter.com" target="_blank" title="Síguenos en twitter"> <img
+                src="Imagenes/twitter.png" width="30" height="30"></a>
+        <a class="enlacesfooter" href="https://www.youtube.com" target="_blank"
+            title="No olvides visitar nuestro canal de you tube"> <img src="Imagenes/youtube.png" width="30"
+                height="30"></a>
+        <a class="enlacesfooter" href="https://www.linkedin.com" target="_blank" title="También estamos en LinkedIn">
+            <img src="Imagenes/linkedin.png" width="30" height="30"></a>
+        <a class="enlacesfooter" href="https://www.facebook.com" target="_blank" title="Dale like en facebook"> <img
+                src="Imagenes/facebook.png" width="30" height="30"></a>
+        <p class="textofooter">© IKERLAN Todos los derechos reservados.</p>
+    </footer>
+</body>
+
+</html>
