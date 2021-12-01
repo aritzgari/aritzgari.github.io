@@ -6,6 +6,8 @@
   <title>Inicio</title>
   <link rel="stylesheet" href="Styles/Stylesheet.css">
   <link rel="shortcut icon" href="Imagenes/favicon.jpg" type="image/x-icon">
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
 </head>
 
 <body>
@@ -21,7 +23,21 @@
   <div class="general">
     <h1>Página web de gestión del proyecto</h1>
     <h2>Ascensor Ermua</h2>
-    <p>Está página web sirve para poder visualizar el digital twin del ascensor de Ermua, la pestaña ascensor nos permite verlo en AR.</p>
+    <p>Está página web sirve para poder visualizar el digital twin del ascensor de Ermua. Esta perstaña nos muestra la
+      localización del ascensor en cuestion. La pestaña ascensor nos permite verlo en AR.</p>
+    <div id='map' style='width: 400px; height: 300px;'></div>
+    <script>
+      mapboxgl.accessToken = 'pk.eyJ1IjoiYXJpdHpnYXJpdGFubyIsImEiOiJja3duZWJ2dWkyOHBvMm5tbGRyMGZmZDhqIn0.XeRyypF939cDVqjZGlKmDQ';
+      var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/streets-v11',
+        center: [-2.507052267370463, 43.18784600543152], // starting position [lng, lat]
+        zoom: 16
+      });
+      const marker1 = new mapboxgl.Marker()
+        .setLngLat([-2.507052267370463, 43.18784600543152])
+        .addTo(map);
+    </script>
 
   </div>
   <footer>
