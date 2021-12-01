@@ -5,7 +5,10 @@ Notas:
 -> El default marker de la carpeta de Imagenes te permite visualizar un modelado del ascensor.
 
 Tareas:
--> Imagen 3D del ascensor
--> Node-red 
--> InfluxDB
--> Tableau
+-> Página web (check)
+-> Videos del CAD (check)
+-> Imagen 3D del ascensor con AR(check)
+-> Node-red
+-> Obtención de datos en tiempo real
+-> InfluxDB o BBDD
+-> Tableau o similar
