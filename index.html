@@ -21,19 +21,19 @@
     </nav>
   </header>
   <div class="general">
-    <h1>Página web de gestión del proyecto</h1>
+    <h1>MUGIERMUA</h1>
     <h2>Ascensor Ermua</h2>
     <p>Está página web sirve para poder visualizar el digital twin del ascensor de Ermua. Esta pestaña nos muestra la
-      localización del ascensor en cuestión. La pestaña de monitorización nos permite ver el funcionamiento del
-      ascensor. La pestaña ascensor nos permite verlo en AR con la imagen correcta.</p>
+      localización de los ascensores en cuestión. La pestaña de monitorización nos permite ver una simulación del
+       funcionamiento de los ascensores. La pestaña ascensor nos permite ver un dibujo en realidad aumentada de los ascensores.</p>
     <div id='map' style='width: 450px; height: 400px;'></div>
     <script>
       mapboxgl.accessToken = 'pk.eyJ1IjoiYXJpdHpnYXJpdGFubyIsImEiOiJja3duZWJ2dWkyOHBvMm5tbGRyMGZmZDhqIn0.XeRyypF939cDVqjZGlKmDQ';
       var map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/satellite-streets-v11',
-        center: [-2.507052267370463, 43.18784600543152], // starting position [lng, lat]
-        zoom: 16,
+        center: [-2.505052267370, 43.18784600543], // starting position [lng, lat]
+        zoom: 15.45,
       });
       map.on('load', () => {
         map.addSource('dem', {
@@ -54,6 +54,12 @@
       const marker1 = new mapboxgl.Marker()
         .setLngLat([-2.507052267370463, 43.18784600543152])
         .addTo(map);
+      const marker2 = new mapboxgl.Marker()
+        .setLngLat([-2.506909, 43.188267])
+        .addTo(map);
+      const marker3 = new mapboxgl.Marker()
+        .setLngLat([-2.501811000000000, 43.18716200])
+        .addTo(map);
     </script>
   </div>
   <footer>
@@ -65,7 +71,7 @@
         src="Imagenes/linkedin.png" width="30" height="30"></a>
     <a class="enlacesfooter" href="https://www.facebook.com" target="_blank" title="Dale like en facebook"> <img
         src="Imagenes/facebook.png" width="30" height="30"></a>
-    <p class="textofooter">© MAFU Todos los derechos reservados.</p>
+    <p class="textofooter">® MAFU Todos los derechos reservados.</p>
   </footer>
 </body>
 
