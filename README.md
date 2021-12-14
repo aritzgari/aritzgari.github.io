@@ -7,7 +7,7 @@ Este es el GITHUB realizado para la asignatura de Tecnologías Industriales. El 
 
 **DESCRIPCIÓN DE LA PÁGINA WEB:**
 
-[Enlace a la página web]https://aritzgari.github.io/index.html
+[Enlace a la página web](https://aritzgari.github.io/index.html)
 
 La página web cuenta con 3 pestañas principales.
 
