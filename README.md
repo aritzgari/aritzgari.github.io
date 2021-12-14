@@ -1,19 +1,17 @@
-**Este es el Git con la página web del trabajo de tecnologias industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Gautxori y Fonsi**
+**Este es el Git con la página web del trabajo de tecnologías industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Gautxori y Fonsi**
 ![alt text](https://www.olabarri.com/wp-content/uploads/referencias/ErmuaAldapa(1).jpg)
+
+DESCRIPCIÓN DE LA PÁGINA WEB:
 
 La página web cuenta con 3 pestañas principales.
 
-1.- La primera, Inicio, sirve como presentación del proyecto.
+Inicio.- En la página principal se muestra el nombre del proyecto y los objetivos a cumplir. También se muestra un mapa en el que se ubican los tres ascensores con los que se está trabajando.
 
-2.- La segunda pestaña, Monitorización, muestra toda la información relacionada con los ascensores mediante graficos de Tableau y un video que simula el funcionamiento del Ascensor.
+Monitorización.- En la segunda pestaña se muestran todos los datos que se están monitorizando en el ascensor. Los datos se recogen mediante la aplicación de Tableau y muestra datos como; el uso del ascensor, la cantidad de usuarios que los usan, etc. Algo que mencionar de esta página es el video que simula el movimiento del ascensor.
 
-3.- La tercera pestaña, Ascensor, nos pide usar la cámara. Si accedemos y ponemos el icono correspondiente (guardado en la carpeta de imagenes) podremos ver un dibujo en realidad aumentada del ascensor. 
+Ascensor.- LLa última pestaña requiere el permiso de uso de la cámara del usuario. Si se autoriza, con la ayuda del icono correspondiente (guardado en la carpeta de imágenes) podremos ver un dibujo en realidad aumentada del ascensor. 
 
-Notas:
-
--> El default marker de la carpeta de Imagenes te permite visualizar un modelado del ascensor.
-
-Funciones:
+FUNCIONES PRINCIPALES:
 
 -Página web.
 
@@ -22,3 +20,10 @@ Funciones:
 -Imagen 3D del ascensor con AR.
 
 -Tableau o similar.
+
+
+
+Notas:
+
+-> El default marker de la carpeta de Imágenes te permite visualizar un modelado del ascensor.
+
