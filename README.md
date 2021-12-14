@@ -1,9 +1,9 @@
-**Este es el Git con la página web del trabajo de tecnologías industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Unai y Alfonso.**
+Este es el Git con la página web del trabajo de tecnologías industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Unai y Alfonso.
 
 ![alt text](https://www.olabarri.com/wp-content/uploads/referencias/ErmuaAldapa(1).jpg)
 
 
-DESCRIPCIÓN DE LA PÁGINA WEB:
+**DESCRIPCIÓN DE LA PÁGINA WEB:**
 
 La página web cuenta con 3 pestañas principales.
 
@@ -14,19 +14,20 @@ Monitorización.- En la segunda pestaña se muestran todos los datos que se est�
 Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usuario. Si se autoriza, con la ayuda del icono correspondiente (guardado en la carpeta de imágenes) podremos ver un dibujo en realidad aumentada del ascensor. 
 
 
-ACTIVIDADES PRINCIPALES:
+**ACTIVIDADES PRINCIPALES DEL PROYECTO:**
 
--Creación de página web.
+	- Creación de página web.
 
--Videos del CAD.
+	- Videos del CAD.
 
--Imagen 3D del ascensor con AR.
+	- Imagen 3D del ascensor con AR.
 
 
 
-TABLEAU:
+**TABLEAU:**
 
 Con el uso de la aplicación Tableau se visualizan los datos procedentes de un archivo excel de con datos aleatorios. Con los datos proporcionados se muestran:
+
 	- Cantidad de uso de cada ascensor.
 
 	- Cantidad de usuarios por ascensor.
@@ -34,7 +35,7 @@ Con el uso de la aplicación Tableau se visualizan los datos procedentes de un a
 	- Temperatura del ambiente.
 	
 
-Notas:
+**NOTAS:**
 
 -> El default marker de la carpeta de Imágenes te permite visualizar un modelado del ascensor.
 
