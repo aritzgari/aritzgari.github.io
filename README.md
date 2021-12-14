@@ -17,6 +17,7 @@ Monitorización.- En la segunda pestaña se muestran todos los datos que se est�
 
 Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usuario. Si se autoriza, con la ayuda del icono correspondiente (guardado en la carpeta de imágenes) podremos ver un dibujo en realidad aumentada del ascensor. 
 
+![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/Screenshot_20211214-170933.jpg)
 
 **ACTIVIDADES PRINCIPALES DEL PROYECTO:**
 
