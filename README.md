@@ -1,8 +1,5 @@
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
-Este es el Git con la página web del trabajo de tecnologias industriales que se centra en el ascensor de Ermua.
+**Este es el Git con la página web del trabajo de tecnologias industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Gautxori y Fonsi**
 ![alt text](https://www.olabarri.com/wp-content/uploads/referencias/ErmuaAldapa(1).jpg)
-
-Explicación de la página:
 
 La página web cuenta con 3 pestañas principales.
 
@@ -18,10 +15,10 @@ Notas:
 
 Funciones:
 
--[x]Página web.
+-Página web.
 
--[x]Videos del CAD.
+-Videos del CAD.
 
--[x]Imagen 3D del ascensor con AR.
+-Imagen 3D del ascensor con AR.
 
--[x]Tableau o similar.
+-Tableau o similar.
