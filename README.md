@@ -43,7 +43,7 @@ Con el uso de la aplicación Tableau se visualizan los datos procedentes de un a
 Visualización en Tableau:
 
 
-![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/tableau.jpg)
+![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/ege.PNG)
 	
 
 **NOTAS:**
