@@ -1,4 +1,4 @@
-**Este es el Git con la página web del trabajo de tecnologías industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Unai y Alfonso**
+**Este es el Git con la página web del trabajo de tecnologías industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Unai y Alfonso.**
 
 ![alt text](https://www.olabarri.com/wp-content/uploads/referencias/ErmuaAldapa(1).jpg)
 
