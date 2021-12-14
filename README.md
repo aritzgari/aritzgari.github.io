@@ -19,6 +19,7 @@ FUNCIONES PRINCIPALES:
 
 -Imagen 3D del ascensor con AR.
 
+<<<<<<< HEAD
 -Tableau o similar.
 
 
@@ -27,3 +28,6 @@ Notas:
 
 -> El default marker de la carpeta de Imágenes te permite visualizar un modelado del ascensor.
 
+=======
+-Tableau o similar.
+>>>>>>> fd82fff5643d981b35ea42d7d49511b2e05882f4
