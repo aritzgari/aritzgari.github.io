@@ -1,8 +1,13 @@
-**Este es el Git con la página web del trabajo de tecnologías industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Unai y Alfonso**
+
+Este es el GITHUB realizado para la asignatura de Tecnologías Industriales. El grupo (MAFU) está compuesto por; Alfonso Pereda, Aritz Garitano, Unai Elustondo y Maite Varela. El proyecto se basa en realizar un gemelo digital de los nuevos ascensores de Ermua. 
+
 
 ![alt text](https://www.olabarri.com/wp-content/uploads/referencias/ErmuaAldapa(1).jpg)
 
-DESCRIPCIÓN DE LA PÁGINA WEB:
+
+**DESCRIPCIÓN DE LA PÁGINA WEB:**
+
+[Enlace a la página web](https://aritzgari.github.io/index.html)
 
 La página web cuenta con 3 pestañas principales.
 
@@ -12,23 +17,35 @@ Monitorización.- En la segunda pestaña se muestran todos los datos que se est�
 
 Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usuario. Si se autoriza, con la ayuda del icono correspondiente (guardado en la carpeta de imágenes) podremos ver un dibujo en realidad aumentada del ascensor. 
 
-ACTIVIDADES PRINCIPALES:
 
--Creación de página web.
+**ACTIVIDADES PRINCIPALES DEL PROYECTO:**
 
--Videos del CAD.
+	- Creación de página web.
 
--Imagen 3D del ascensor con AR.
+	- Videos del CAD.
 
-<<<<<<< HEAD
--Tableau o similar.
+	- Imagen 3D del ascensor con AR.
 
 
 
-Notas:
+**TABLEAU:**
+
+Con el uso de la aplicación Tableau se visualizan los datos procedentes de un archivo excel de con datos aleatorios. Con los datos proporcionados se muestran:
+
+	- Cantidad de uso de cada ascensor.
+
+	- Cantidad de usuarios por ascensor.
+
+	- Temperatura del ambiente.
+
+
+Visualización en Tableau:
+
+
+![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/tableau.jpg)
+	
+
+**NOTAS:**
 
 -> El default marker de la carpeta de Imágenes te permite visualizar un modelado del ascensor.
 
-=======
--Tableau o similar.
->>>>>>> fd82fff5643d981b35ea42d7d49511b2e05882f4
