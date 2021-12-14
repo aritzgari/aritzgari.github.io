@@ -44,7 +44,7 @@ Con el uso de la aplicación Tableau se visualizan los datos procedentes de un a
 Visualización en Tableau:
 
 
-![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/ege.png)
+![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/ege.PNG)
 	
 
 Algo a destacar sobre la página web es la barra de weather instalada. La información meteorológica es sacada de una página web de tiempo. Esta se actualiza siempre que el origen cambia.
