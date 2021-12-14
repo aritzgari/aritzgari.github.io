@@ -1,4 +1,6 @@
-Este es el Git con la página web del trabajo de tecnologías industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Unai y Alfonso.
+
+Este es el GITHUB realizado para la asignatura de Tecnologías Industriales. El grupo (MAFU) está compuesto por; Alfonso Pereda, Aritz Garitano, Unai Elustondo y Maite Varela. El proyecto se basa en realizar un gemelo digital de los nuevos ascensores de Ermua. 
+
 
 ![alt text](https://www.olabarri.com/wp-content/uploads/referencias/ErmuaAldapa(1).jpg)
 
@@ -34,7 +36,10 @@ Con el uso de la aplicación Tableau se visualizan los datos procedentes de un a
 
 	- Temperatura del ambiente.
 
-![alt text](/Imagenes/tableau.JPG)
+
+[here](/Imagenes/tableau.jpg)
+
+![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/tableau.jpg)
 	
 
 **NOTAS:**
