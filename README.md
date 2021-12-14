@@ -1,7 +1,7 @@
-**Este es el Git con la página web del trabajo de tecnologias industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Gautxori y Fonsi.**
+**Este es el Git con la página web del trabajo de tecnologias industriales que se centra en el ascensor de Ermua. Creado y mantenido por el equipo © MAFU que está formado por Maite, Aritz, Gautxori y Fonsi**
 ![alt text](https://www.olabarri.com/wp-content/uploads/referencias/ErmuaAldapa(1).jpg)
 
-La página web cuenta con **3 pestañas principales.**
+La página web cuenta con 3 pestañas principales.
 
 1.- La primera, Inicio, sirve como presentación del proyecto.
 
@@ -9,11 +9,11 @@ La página web cuenta con **3 pestañas principales.**
 
 3.- La tercera pestaña, Ascensor, nos pide usar la cámara. Si accedemos y ponemos el icono correspondiente (guardado en la carpeta de imagenes) podremos ver un dibujo en realidad aumentada del ascensor. 
 
-**Notas:**
+Notas:
 
 -> El default marker de la carpeta de Imagenes te permite visualizar un modelado del ascensor.
 
-**Funciones:**
+Funciones:
 
 -Página web.
 
