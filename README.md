@@ -33,6 +33,8 @@ Con el uso de la aplicación Tableau se visualizan los datos procedentes de un a
 	- Cantidad de usuarios por ascensor.
 
 	- Temperatura del ambiente.
+
+![alt text](/Imagenes/tableau.JPG)
 	
 
 **NOTAS:**
