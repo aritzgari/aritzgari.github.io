@@ -22,3 +22,5 @@ Funciones:
 -Imagen 3D del ascensor con AR.
 
 -Tableau o similar.
+
+puta mierda
