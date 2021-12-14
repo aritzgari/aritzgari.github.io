@@ -14,7 +14,7 @@ Monitorización.- En la segunda pestaña se muestran todos los datos que se est�
 Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usuario. Si se autoriza, con la ayuda del icono correspondiente (guardado en la carpeta de imágenes) podremos ver un dibujo en realidad aumentada del ascensor. 
 
 
-<u>ACTIVIDADES PRINCIPALES:</u>
+ACTIVIDADES PRINCIPALES:
 
 -Creación de página web.
 
@@ -24,8 +24,15 @@ Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usua
 
 
 
+TABLEAU:
 
+Con el uso de la aplicación Tableau se visualizan los datos procedentes de un archivo excel de con datos aleatorios. Con los datos proporcionados se muestran:
+	- Cantidad de uso de cada ascensor.
 
+	- Cantidad de usuarios por ascensor.
+
+	- Temperatura del ambiente.
+	
 
 Notas:
 
