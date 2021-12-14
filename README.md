@@ -15,7 +15,7 @@ Notas:
 
 Funciones:
 
--Página web.
+-Página weeb.
 
 -Videos del CAD.
 
