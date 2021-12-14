@@ -43,6 +43,9 @@ Visualización en Tableau:
 ![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/tableau.jpg)
 	
 
+Algo a destacar sobre la página web es la barra de weather instalada. La información meteorológica es sacada de una página web de tiempo. Esta se actualiza siempre que el origen cambia.
+
+
 **NOTAS:**
 
 -> El default marker de la carpeta de Imágenes te permite visualizar un modelado del ascensor.
