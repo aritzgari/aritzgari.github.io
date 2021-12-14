@@ -37,7 +37,8 @@ Con el uso de la aplicación Tableau se visualizan los datos procedentes de un a
 	- Temperatura del ambiente.
 
 
-[here](/Imagenes/tableau.jpg)
+Visualización en Tableau:
+
 
 ![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/tableau.jpg)
 	
@@ -46,6 +47,3 @@ Con el uso de la aplicación Tableau se visualizan los datos procedentes de un a
 
 -> El default marker de la carpeta de Imágenes te permite visualizar un modelado del ascensor.
 
-=======
--Tableau o similar.
->>>>>>> fd82fff5643d981b35ea42d7d49511b2e05882f4
