@@ -2,6 +2,7 @@
 
 ![alt text](https://www.olabarri.com/wp-content/uploads/referencias/ErmuaAldapa(1).jpg)
 
+
 DESCRIPCIÓN DE LA PÁGINA WEB:
 
 La página web cuenta con 3 pestañas principales.
@@ -12,7 +13,8 @@ Monitorización.- En la segunda pestaña se muestran todos los datos que se est�
 
 Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usuario. Si se autoriza, con la ayuda del icono correspondiente (guardado en la carpeta de imágenes) podremos ver un dibujo en realidad aumentada del ascensor. 
 
-ACTIVIDADES PRINCIPALES:
+
+<u>ACTIVIDADES PRINCIPALES:</u>
 
 -Creación de página web.
 
@@ -20,8 +22,8 @@ ACTIVIDADES PRINCIPALES:
 
 -Imagen 3D del ascensor con AR.
 
-<<<<<<< HEAD
--Tableau o similar.
+
+
 
 
 
