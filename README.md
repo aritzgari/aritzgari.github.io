@@ -27,8 +27,6 @@ Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usua
 
 	- Imagen 3D del ascensor con AR.
 
-<<<<<<< HEAD
-
 
 **TABLEAU:**
 
@@ -47,13 +45,8 @@ Visualización en Tableau:
 ![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/ege.PNG)
 	
 
-Algo a destacar sobre la página web es la barra de weather instalada. La información meteorológica es sacada de una página web de tiempo. Esta se actualiza siempre que el origen cambia.
+Algo a destacar sobre la página web es la barra de weather instalada. La información meteorológica está sacada de una página web meteorológica. Esta se actualiza siempre que el origen cambia.
 
-
-=======
-	
-
->>>>>>> 45ebdf85a5fda16b6643824282ee797cb2263ce7
 **NOTAS:**
 
 -> El default marker de la carpeta de Imágenes te permite visualizar un modelado del ascensor.
