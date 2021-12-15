@@ -7,7 +7,7 @@ Este es el GITHUB realizado para la asignatura de Tecnologías Industriales. El 
 ![alt text](https://www.olabarri.com/wp-content/uploads/referencias/ErmuaAldapa(1).jpg)
 
 
-**DESCRIPCIÓN DE LA PÁGINA WEB:**
+## **DESCRIPCIÓN DE LA PÁGINA WEB:**
 
 [Enlace a la página web](https://aritzgari.github.io/index.html)
 
@@ -21,7 +21,7 @@ Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usua
 
 ![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/Screenshot_20211214-170933.jpg)
 
-**ACTIVIDADES PRINCIPALES DEL PROYECTO:**
+## **ACTIVIDADES PRINCIPALES DEL PROYECTO:**
 
 	- Creación de página web.
 
@@ -30,7 +30,7 @@ Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usua
 	- Imagen 3D del ascensor con AR.
 
 
-**TABLEAU:**
+## **TABLEAU:**
 
 Con el uso de la aplicación Tableau se visualizan los datos procedentes de un archivo excel de con datos aleatorios. Con los datos proporcionados se muestran:
 
@@ -49,13 +49,13 @@ Visualización en Tableau:
 
 Algo a destacar sobre la página web es la barra de weather instalada. La información meteorológica está sacada de una página web meteorológica. Esta se actualiza siempre que el origen cambia.
 
-**REALIDAD AUMENTADA:**
+## **REALIDAD AUMENTADA:**
 
 También se ha realizado un pequeño modelo 3D de uno de los ascensores de Ermua, el cual está disponible para su visualización en realidad aumentada escaneando el AR que se muestra a continuación con la ayuda de una cámara. Para proceder con el escaner, es necesario estar en la tercera pestaña de la página web y habilitar la cámara del dispositivo que se está usando.
 
 ![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/default-marker.png)
 
-**PRESENTACIÓN POWER POINT:**
+## **PRESENTACIÓN POWER POINT:**
 
 En la presentación que se encuentra adjunta en el documento se tiene por objetivo presentar el trabajo realizado en el proyecto "TRILLIZO DIGITAL DE LOS ASCENSORES PÚBLICOS DE ERMUA". 
 
