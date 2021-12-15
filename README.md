@@ -47,6 +47,20 @@ Visualización en Tableau:
 
 Algo a destacar sobre la página web es la barra de weather instalada. La información meteorológica está sacada de una página web meteorológica. Esta se actualiza siempre que el origen cambia.
 
+**PRESENTACIÓN POWER POINT:**
+
+En la presentación que se encuentra adjunta en el documento se tiene por objetivo presentar el trabajo realizado en el proyecto "TRILLIZO DIGITAL DE LOS ASCENSORES PÚBLICOS DE ERMUA". 
+
+El proyecto pretende acercar a la ciudadania el gemelo digital, dándoles a conocer las nuevas tecnologías del momento y proporcionándoles el estado de los ascensores para facilitarles la vida diaria gracias una página web de facil uso. 
+
+Para realizarlo, se han sensorizado los ascensores con diferentes sistemas embebidos, como por ejemplo, un mircocontrolador STM32WB55. De esta manera se consiguen datos del tipo; estado actual del ascensor, planta en la que se encuentra, temperatura del ambiente. Con motivos de seguridad, se instala otro sensor de presión para calucar el peso que hay dentro del ascensor para que no exceda el peso, poniendo en riesgo la integridad del ascensor y la de los integrantes.
+
+Todos estos datos son mostrados gracias a Tableau y se reflejan en la página web, que es pública para que cualquier persona pueda acceder a ella. 
+
+Para finalizar, se muestra un *default* a través del cual se puede ver uno de los ascensores en realidad aumentada.
+
+
+
 **NOTAS:**
 
 -> El default marker de la carpeta de Imágenes te permite visualizar un modelado del ascensor.
