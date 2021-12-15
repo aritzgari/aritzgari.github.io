@@ -64,10 +64,3 @@ Para realizarlo, se han sensorizado los ascensores con diferentes sistemas embeb
 Todos estos datos son mostrados gracias a Tableau y se reflejan en la página web, que es pública para que cualquier persona pueda acceder a ella. 
 
 Para finalizar, se muestra un *default* a través del cual se puede ver uno de los ascensores en realidad aumentada.
-
-
-
-**NOTAS:**
-
--> El default marker de la carpeta de Imágenes te permite visualizar un modelado del ascensor.
-
