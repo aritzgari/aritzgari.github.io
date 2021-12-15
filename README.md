@@ -15,7 +15,7 @@ Inicio.- En la página principal se muestra el nombre del proyecto y los objetiv
 
 Monitorización.- En la segunda pestaña se muestran todos los datos que se están monitorizando en el ascensor. Los datos se recogen mediante la aplicación de Tableau y muestra datos como; el uso del ascensor, la cantidad de usuarios que los usan, etc. Algo que mencionar de esta página es el video que simula el movimiento del ascensor.
 
-Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usuario. Si se autoriza, con la ayuda del icono correspondiente (guardado en la carpeta de imágenes) podremos ver un dibujo en realidad aumentada del ascensor. Tal y como se muestra en la siguiente imagen:
+Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usuario. Si se autoriza, con la ayuda del icono correspondiente (guardado en la carpeta de imágenes) podremos ver un dibujo en realidad aumentada del ascensor, el cual, si se accede desde el móvil, se puede interactuar con él haciendo zoom o girándolo, como se muestra en la siguiente imagen:
 
 ![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/Screenshot_20211214-170933.jpg)
 
