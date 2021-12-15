@@ -15,8 +15,9 @@ Inicio.- En la página principal se muestra el nombre del proyecto y los objetiv
 
 Monitorización.- En la segunda pestaña se muestran todos los datos que se están monitorizando en el ascensor. Los datos se recogen mediante la aplicación de Tableau y muestra datos como; el uso del ascensor, la cantidad de usuarios que los usan, etc. Algo que mencionar de esta página es el video que simula el movimiento del ascensor.
 
-Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usuario. Si se autoriza, con la ayuda del icono correspondiente (guardado en la carpeta de imágenes) podremos ver un dibujo en realidad aumentada del ascensor. 
+Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usuario. Si se autoriza, con la ayuda del icono correspondiente (guardado en la carpeta de imágenes) podremos ver un dibujo en realidad aumentada del ascensor. Tal y como se muestra en la siguiente imagen:
 
+![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/Screenshot_20211214-170933.jpg)
 
 **ACTIVIDADES PRINCIPALES DEL PROYECTO:**
 
@@ -26,6 +27,7 @@ Ascensor.- La última pestaña requiere el permiso de uso de la cámara del usua
 
 	- Imagen 3D del ascensor con AR.
 
+<<<<<<< HEAD
 
 
 **TABLEAU:**
@@ -42,9 +44,16 @@ Con el uso de la aplicación Tableau se visualizan los datos procedentes de un a
 Visualización en Tableau:
 
 
-![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/tableau.jpg)
+![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/ege.PNG)
 	
 
+Algo a destacar sobre la página web es la barra de weather instalada. La información meteorológica es sacada de una página web de tiempo. Esta se actualiza siempre que el origen cambia.
+
+
+=======
+	
+
+>>>>>>> 45ebdf85a5fda16b6643824282ee797cb2263ce7
 **NOTAS:**
 
 -> El default marker de la carpeta de Imágenes te permite visualizar un modelado del ascensor.
