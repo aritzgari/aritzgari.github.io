@@ -47,6 +47,12 @@ Visualización en Tableau:
 
 Algo a destacar sobre la página web es la barra de weather instalada. La información meteorológica está sacada de una página web meteorológica. Esta se actualiza siempre que el origen cambia.
 
+**REALIDAD AUMENTADA:**
+
+También se ha realizado un pequeño modelo 3D de uno de los ascensores de Ermua, el cual está disponible para su visualización en realidad aumentada escaneando el AR que se muestra a continuación con la ayuda de una cámara. Para proceder con el escaner, es necesario estar en la tercera pestaña de la página web y habilitar la cámara del dispositivo que se está usando.
+
+![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/default-marker.PNG)
+
 **PRESENTACIÓN POWER POINT:**
 
 En la presentación que se encuentra adjunta en el documento se tiene por objetivo presentar el trabajo realizado en el proyecto "TRILLIZO DIGITAL DE LOS ASCENSORES PÚBLICOS DE ERMUA". 
