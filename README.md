@@ -1,4 +1,4 @@
-#TECNOLOGÍAS INDUSTRIALES
+# TECNOLOGÍAS INDUSTRIALES
 
 
 Este es el GITHUB realizado para la asignatura de Tecnologías Industriales. El grupo (MAFU) está compuesto por; Alfonso Pereda, Aritz Garitano, Unai Elustondo y Maite Varela. El proyecto se basa en realizar un gemelo digital de los nuevos ascensores de Ermua. 
