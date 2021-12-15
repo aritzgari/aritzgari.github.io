@@ -51,7 +51,7 @@ Algo a destacar sobre la página web es la barra de weather instalada. La inform
 
 También se ha realizado un pequeño modelo 3D de uno de los ascensores de Ermua, el cual está disponible para su visualización en realidad aumentada escaneando el AR que se muestra a continuación con la ayuda de una cámara. Para proceder con el escaner, es necesario estar en la tercera pestaña de la página web y habilitar la cámara del dispositivo que se está usando.
 
-![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/default-marker.PNG)
+![alt text](https://github.com/aritzgari/aritzgari.github.io/blob/main/Imagenes/default-marker.png)
 
 **PRESENTACIÓN POWER POINT:**
 
